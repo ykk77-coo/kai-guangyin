@@ -1,9 +1,9 @@
-# KAI 光陰之間
+# KAI｜光阴之间
 
-[GitHub Pages 镜像](https://ykk77-coo.github.io/kai-guangyin/) · [Cloudflare 正式站](https://kai-guangyin-v2.pages.dev/)
+KAI 与 Zhu 的摄影作品集，记录山野、城市、日常与旅途。可按主题浏览作品，也可从地图进入旅行相册。
 
-这个仓库发布摄影站的静态镜像。GitHub Pages 从 `main` 分支的 `/docs` 目录发布。
-照片由镜像站提供，背景音乐从 Cloudflare 正式站播放。
+[浏览摄影网站](https://ykk77-coo.github.io/kai-guangyin/) · [关于本站](https://ykk77-coo.github.io/kai-guangyin/about.html) · [Cloudflare 站点](https://kai-guangyin-v2.pages.dev/)
 
-摄影 © KAI。作品与第三方素材的权利归各自权利人所有。
-镜像版本对应 Cloudflare 部署 `435280a1-d78b-44d3-9b19-1d25a1065f3c`。
+GitHub Pages 从 `main` 分支的 `/docs` 目录发布本站。
+
+摄影作品及第三方素材的版权由各自权利人保留。
